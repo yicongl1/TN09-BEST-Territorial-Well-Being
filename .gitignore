@@ -1,0 +1,12 @@
+# --- Contenu privé : ne pas publier ------------------------------------------
+# Données personnelles (CV, attestation, évaluation), documents internes du
+# laboratoire, travaux d'autres membres de l'équipe, articles sous droits d'auteur.
+archive/
+
+# --- Artefacts techniques -----------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+desktop.ini
